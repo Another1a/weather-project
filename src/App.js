@@ -17,7 +17,7 @@ function App() {
         
         </div>
         <p>
-          <a href="https://github.com/Another1a/weather-project" target="_blank" rel="noreferrer">Open-source code</a>, by Alla 
+          <a href="https://github.com/Another1a/weather-project" target="_blank" rel="noreferrer">Open-source code</a>, by Alla, <a href="https://iridescent-sundae-201409.netlify.app" target="_blank" rel="noreferrer">Netlify</a>
           </p>
       </div>
       
