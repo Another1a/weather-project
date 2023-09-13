@@ -17,7 +17,7 @@ function App() {
         
         </div>
         <p>
-          <a href="https://github.com" target="_blank" rel="noreferrer">Open-source code</a>, by <a href="#" rel="noreferrer">Alla</a>
+          <a href="https://github.com/Another1a/weather-project" target="_blank" rel="noreferrer">Open-source code</a>, by Alla 
           </p>
       </div>
       
