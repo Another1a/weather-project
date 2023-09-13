@@ -1,0 +1,65 @@
+#temperature {
+    font-weight: 500;
+    color: #212121;
+    font-size: 65px;
+  }
+  .weather-info .temperature-container {
+    margin-top: 30px;
+  }
+  .units {
+    position: relative;
+    top: -32px;
+    color: #212121;
+    font-size: 20px;
+  }
+  .weather-icon {
+    position: relative;
+    top: 15px;
+  }
+  
+  li strong {
+    color: #212121;
+    font-weight: 500;
+    opacity: 0.7;
+  }
+  .units a {
+    text-decoration: none;
+    color: #885df1;
+  }
+  
+  .temperature-container .active {
+    color: #212121;
+    cursor: default;
+  }
+  small a {
+    color: #885df1;
+  }
+  .weather-forecast {
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .weather-info {
+    margin-top: 30px;
+  }
+
+  h1 {
+    color: #272142;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 48px;
+    margin: 20px 0 10px;
+  }
+  
+  li {
+    list-style: none;
+    color: rgba(39, 33, 66, 0.4);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 0;
+  }
+  ul {
+    padding-left: 0;
+  }
+  
